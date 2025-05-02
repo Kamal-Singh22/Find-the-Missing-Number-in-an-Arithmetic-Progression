@@ -9,4 +9,4 @@ A loop checks where the difference between two consecutive terms doesn’t match
 
 It returns the missing number when the pattern breaks.
 
-If the sequence is complete and just missing the last number, it returns the next expected number in the sequence.
+If the sequence is complete and just missing the last number, it returns the next expected number in the sequence....
